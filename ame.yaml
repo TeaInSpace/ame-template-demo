@@ -1,0 +1,6 @@
+projectid: shared-templates
+templates:
+  - name: logistic_reg_template
+    resources:
+      cpu: 2
+      memory: 4Gi
