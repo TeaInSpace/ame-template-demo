@@ -1,4 +1,4 @@
-projectid: shared-templates
+name: shared-templates
 templates:
   - name: logistic_reg_template
     resources:
